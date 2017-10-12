@@ -46,10 +46,12 @@ html {
   width: 6em;
   font-style: italic;
 }
+
 .cards dd {
   display: inline-block;
   margin: 0;
-  min-width: 9em; }
+  min-width: 9em; 
+}
 
 .cards div {
   text-align: center;
@@ -67,6 +69,4 @@ html {
 
 .cards a:hover {
   background-color: #333;
-  color: #fff;
-    
-}
+  color: #fff; }
