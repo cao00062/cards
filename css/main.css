@@ -46,11 +46,12 @@ html {
   width: 6em;
   font-style: italic;
 }
- 
 .cards dd {
+    
   display: inline-block;
   margin: 0;
   min-width: 9em; 
+
 }
 
 .cards div {
@@ -59,6 +60,7 @@ html {
 
 .cards a {
   display: inline-block;
+    
   padding:  .5em .75em;
   background-color: #ccc;
   border-radius: 4px;
@@ -69,4 +71,5 @@ html {
 .cards a:hover {
   background-color: #333;
   color: #fff;
+    
 }
